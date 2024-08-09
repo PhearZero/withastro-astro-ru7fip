@@ -1,0 +1,4 @@
+{
+  "name": "tutorialkit-bug",
+  "workspaces": ["packages/*"]
+}
